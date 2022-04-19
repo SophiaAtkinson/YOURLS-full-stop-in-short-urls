@@ -15,7 +15,7 @@ This plugin will allow full stops `.` in keywords when shortening URLS with YOUR
 
 *NOTE This plugin will not work with URL Forwarding plugins active. Deactivate before activating this plugin.
 
-###Installation
+### Installation
 
 1. Download these file as a .zip.
 2. Extract the files and copy them into `users/plugins/`.
