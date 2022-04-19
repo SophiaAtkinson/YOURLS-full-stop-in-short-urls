@@ -20,3 +20,4 @@ This plugin will allow full stops `.` in keywords when shortening URLS with YOUR
 1. Download these file as a .zip.
 2. Extract the files and copy them into `users/plugins/`.
 3. Go to your plugin manager and click `Activate`.
+4. Pat yourself on the back!
