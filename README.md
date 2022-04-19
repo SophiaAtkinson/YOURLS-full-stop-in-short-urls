@@ -11,7 +11,7 @@ Allow Full Stops in Short URLs
 - Plugin Based Off Of William Bargent's Allow Forward Slashes in Short URLs.
 
 
-This plugin will allow forward slashes `.` in keywords when shortening URLS with YOURLS.
+This plugin will allow full stops `.` in keywords when shortening URLS with YOURLS.
 
 *NOTE This plugin will not work with URL Forwarding plugins active. Deactivate before activating this plugin.
 
