@@ -13,7 +13,7 @@ Allow Full Stops in Short URLs
 
 This plugin will allow full stops `.` in keywords when shortening URLS with YOURLS.
 
-*NOTE This plugin will not work with URL Forwarding plugins active. Deactivate before activating this plugin.
+*NOTE This plugin will work with URL Forwarding plugins active. Deactivate before activating this plugin. Such as Allow Hyphens in Short URLs, and Allow Forward Slashes in Short URLs.
 
 ### Installation
 
