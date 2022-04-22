@@ -1,5 +1,5 @@
 
-Allow Full Stops in Short URLs
+Allow Full Stops in Short URLs [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 ---------------------------------------------
 
 - Plugin Name: Allow Full Stops in Short URLs
